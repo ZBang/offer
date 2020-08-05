@@ -70,5 +70,5 @@
     class的默认权限是私有权限-private
 
 
-[八、构造函数和析构函数](https://github.com/ZBang/offer/blob/master/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/linux%E5%9F%BA%E7%A1%80)
+[八、构造函数和析构函数](https://github.com/ZBang/offer/blob/master/%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93/C%2B%2B/%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0%E5%92%8C%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0.md)
 
